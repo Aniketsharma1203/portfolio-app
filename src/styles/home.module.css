@@ -1,0 +1,38 @@
+body{
+    height: 90dvh;
+    background-color: black;
+    color: rgb(253, 254, 255);
+    margin: 0%;
+    padding: 0%;
+    background-image: url('../assets/flat-lay-desktop-with-glasses-copy-space.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header{
+    
+    text-align: center;
+    font-size: 3.2dvh;
+}
+
+.side{
+    position: fixed;
+    right: 10dvh;
+    font-size: 3dvh;
+    height: 30dvh;
+    width: 20dvw;
+    border: 1dvh solid white;
+    padding: 3dvw;
+    cursor: pointer;
+}
+
+.personal{
+    margin: 2dvw;
+    background-color: rgb(134, 132, 129);
+    max-width: 50dvw;
+    width: auto;
+    height: auto;
+    font-size: large;
+    font-weight: 500;
+}
